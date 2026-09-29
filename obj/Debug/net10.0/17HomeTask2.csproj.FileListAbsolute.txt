@@ -1,0 +1,14 @@
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\bin\Debug\net10.0\17HomeTask2.exe
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\bin\Debug\net10.0\17HomeTask2.deps.json
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\bin\Debug\net10.0\17HomeTask2.runtimeconfig.json
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\bin\Debug\net10.0\17HomeTask2.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\bin\Debug\net10.0\17HomeTask2.pdb
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\17HomeTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\17HomeTask2.AssemblyInfoInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\17HomeTask2.AssemblyInfo.cs
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\17HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\17HomeTask2.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\refint\17HomeTask2.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\17HomeTask2.pdb
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\17HomeTask2.genruntimeconfig.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\17HomeTask2\obj\Debug\net10.0\ref\17HomeTask2.dll

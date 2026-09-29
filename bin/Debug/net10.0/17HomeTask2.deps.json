@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "17HomeTask2/1.0.0": {
+        "runtime": {
+          "17HomeTask2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17HomeTask2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
